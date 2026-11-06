@@ -3,8 +3,8 @@
   "repository_name": "edu-annual-enrollment-planner",
   "product_type": "Skill",
   "version": "1.0.0",
-  "tested_at": "2026-11-06T21:33:53.6983668+08:00",
-  "tested_tree_sha": "e11302873daf5ed793e03d26b7b372e83a23d24a",
+  "tested_at": "2026-11-06T21:54:34.9764934+08:00",
+  "tested_tree_sha": "316a1dc0d26e422a14c76c1639aaa2698630a416",
   "package_path": "dist/edu-annual-enrollment-planner-v1.0.0.zip",
   "package_sha256": "3ED63D1D7D927C0662A1E288E7DA29E493990227D915A63FB38E69FD95CA605A",
   "checks": {
