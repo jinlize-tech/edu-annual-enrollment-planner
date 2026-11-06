@@ -1,0 +1,24 @@
+{
+  "number": 3,
+  "product_id": "JLZ-EDU-SK-003",
+  "chinese_name": "年度招生规划",
+  "english_name": "Annual Enrollment Planner",
+  "repository_name": "edu-annual-enrollment-planner",
+  "product_type": "Skill",
+  "category": "01 招生营销中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-annual-enrollment-planner-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "年度营收与招生目标、校区容量、开班计划、季节节奏、预算与人员",
+  "main_output": "年度招生目标表、月度节点、渠道与预算分配、里程碑和风险清单",
+  "package_entries": [
+    "edu-annual-enrollment-planner/SKILL.md",
+    "edu-annual-enrollment-planner/references/DOMAIN_GUIDE.md",
+    "edu-annual-enrollment-planner/references/EXAMPLES.md",
+    "edu-annual-enrollment-planner/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-003",
+  "repository_name": "edu-annual-enrollment-planner",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-annual-enrollment-planner-v1.0.0.zip",
+  "sha256": "3ED63D1D7D927C0662A1E288E7DA29E493990227D915A63FB38E69FD95CA605A",
+  "bytes": 4899,
+  "entries": [
+    "edu-annual-enrollment-planner/SKILL.md",
+    "edu-annual-enrollment-planner/references/DOMAIN_GUIDE.md",
+    "edu-annual-enrollment-planner/references/EXAMPLES.md",
+    "edu-annual-enrollment-planner/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T21:33:31.0079796+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
